@@ -10,7 +10,7 @@ function App() {
      <Navbar />
       <Routes>
         {/* <Route exact path="/" element={ <Navbar />} /> */}
-        <Route exact path="/Countdowntimer" element={<CountDownTimer />} />
+        <Route exact path="/" element={<CountDownTimer />} />
         <Route exact path="/userlist" element={<UserList />} />
       </Routes>
     </>
