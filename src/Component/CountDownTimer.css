@@ -1,0 +1,39 @@
+.countdown-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .countdown-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .countdown-label {
+    font-size: 18px;
+  }
+  
+  .countdown-input {
+    margin-top: 10px;
+    padding: 5px;
+  }
+  
+  .countdown-buttons {
+    margin-top: 20px;
+  }
+  
+  .countdown-button {
+    margin: 0 5px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .countdown-time {
+    font-size: 20px;
+    margin-top: 30px;
+  }
+  
